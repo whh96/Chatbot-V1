@@ -1,5 +1,3 @@
-# run pipenv shell first
-
 import openai
 
 openai.api_key = "##############"
