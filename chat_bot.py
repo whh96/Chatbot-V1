@@ -36,7 +36,7 @@ print (response)
 # Temp 0.1: I am not a storyteller. I am an AI.
 # Temp 0.9: You are currently awake. You are feeling enthusiastic.
 
-# Characteristics: seductive, sexy, sassy, and very aggressive
+# Characteristics: seductive, dreamy, sassy, and very intelligent.
 
 # Temp 0.1: I will tell you a story about a man who was walking down the street. 
 # He was walking down the street when he saw a woman. The woman was very beautiful. 
